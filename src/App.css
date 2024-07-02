@@ -3,3 +3,7 @@
 }
 
 
+style-rule ::=
+    selectors-list {
+      properties-list
+    }
